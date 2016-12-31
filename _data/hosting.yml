@@ -19,6 +19,13 @@ websites:
       twitter: MyDevilnet
       tfa: No
 
+    - name: Nazwa.pl
+      url: https://nazwa.pl
+      img: nazwa.png
+      facebook: nazwapl
+      twitter: nazwa.pl
+      tfa: No
+
     - name: Zenbox.pl
       url: http://zenbox.pl
       img: zenbox.png
