@@ -9,6 +9,11 @@ websites:
           text: "Kod SMS wymagany do 2FA. 1 konto na numer telefonu."
       doc: https://www.facebook.com/help/148233965247823
 
+    - name: nk
+      url: https://nk.pl
+      img: nk.png
+      tfa: No
+      
     - name: Twitter
       url: https://twitter.com
       img: twitter.png
