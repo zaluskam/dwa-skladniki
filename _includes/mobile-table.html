@@ -54,8 +54,8 @@
         {% if website.sms %}SMS{% endif %}
         {% if website.phone %}Telefon{% endif %}
         {% if website.email %}E-mail{% endif %}
-        {% if website.hardware %}Sprzęt{% endif %}
-        {% if website.software %}Oprogramowanie{% endif %}
+        {% if website.hardware %}Sprzętowy{% endif %}
+        {% if website.software %}Programowy{% endif %}
       </p>
       {% if website.doc %}
       <div class="button-group">
@@ -74,7 +74,7 @@
         <a href="{{ website.url }}" class="name">{{ website.name }}</a>
         {% include exception.html website=website %}
       </div>
-      <p>2FA nie obsługiwane</p>
+      <p>2FA nieobsługiwane</p>
       <div class="button-group">
         {% if website.twitter %} <a class="ui twitter mini button" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i></a>{% endif %}
         {% if website.facebook %} <a class="ui facebook mini button" href="https://facebook.com/{{website.facebook}}/" target="_blank"><i class="facebook icon"></i></a>{%endif%}
