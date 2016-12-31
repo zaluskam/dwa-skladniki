@@ -6,6 +6,12 @@ websites:
       twitter: hekkonet
       tfa: No
 
+    - name: Linuxpl
+      url: http://linuxpl.com
+      img: linuxpl.png
+      facebook: linuxplcom
+      tfa: No
+
     - name: MyDevil
       url: http://mydevil.net
       img: mydevil.png
