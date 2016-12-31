@@ -4,6 +4,7 @@ websites:
       img: hekko.png
       facebook: HEKKONET
       twitter: hekkonet
+      wykop: hekkonet
       tfa: No
 
     - name: Linuxpl
@@ -32,4 +33,5 @@ websites:
       img: zenbox.png
       facebook: zenboxpl
       twitter: zenbox_pl
+      wykop: zenbox_pl
       tfa: No
