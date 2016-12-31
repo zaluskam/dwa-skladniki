@@ -18,3 +18,9 @@ websites:
           text: "Kody SMS dostępne u niektórych dostawców. SMS wymagany do 2FA. 10 kont na numer telefonu, 1 numer telefonu dla konta."
       software: Yes
       doc: https://support.twitter.com/articles/20170388
+
+    - name: Wykop.pl
+      url: https://wykop.pl
+      img: wykop.png
+      facebook: wykoppl
+      tfa: No
