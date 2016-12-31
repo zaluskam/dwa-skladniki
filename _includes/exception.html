@@ -2,16 +2,16 @@
 
 {% capture html %}
 <div class='header'>
-    Exceptions &amp; Restrictions
+    Wyjątki &amp; Ograniczenia
 </div>
 <div class='content'>
     {% if include.website.exceptions.text %}
         {{ include.website.exceptions.text }}
     {% else %}
         {% if include.website.exceptions.link %}
-            Click to see more info on the restrictions.
+            Kliknij, aby zobaczyć więcej informacji o ograniczeniach.
         {% else %}
-            Some restrictions on 2FA for this site exist.
+            Istnieją pewne ograniczenia dotyczące 2FA na tej stronie.
         {% endif %}
     {% endif %}
 </div>

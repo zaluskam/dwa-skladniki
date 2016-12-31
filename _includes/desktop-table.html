@@ -6,12 +6,12 @@
     <thead>
     <tr>
       <th class="single line four wide"><h3>{{ section_title }}</h3></th>
-      <th class="two wide">Docs</th>
+      <th class="two wide">Dokumentacja</th>
       <th class="two wide">SMS</th>
-      <th class="two wide">Phone Call</th>
+      <th class="two wide">Połączenie telefoniczne</th>
       <th class="two wide">Email</th>
-      <th class="two wide">Hardware Token</th>
-      <th class="two wide">Software Token</th>
+      <th class="two wide">Token sprzętowy</th>
+      <th class="two wide">Token programowy</th>
     </tr>
     </thead>
     <tbody class="jets-content">
@@ -37,7 +37,7 @@
           </div>
           <div class="progress-info">
             <a class="ui mini orange button" href="{{website.status}}" target="_blank">
-              <i class="star icon"></i> In Progress!
+              <i class="star icon"></i> W toku!
             </a>
           </div>
         </td>
@@ -107,9 +107,9 @@
           </div>
         </td>
         <td class="twitter negative" colspan="6">
-        {% if website.twitter %} <a class="ui twitter mini button" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i> {{page.link}} on Twitter</a>{% endif %}
-        {% if website.facebook %} <a class="ui facebook mini button" href="https://facebook.com/{{website.facebook}}/" target="_blank"><i class="facebook icon"></i> {{page.link}} on Facebook</a>{%endif%}
-        {% if website.email_address %} <a class="ui green mini button" href="mailto:{{website.email_address}}?subject=Support%20Two%20Factor%20Authentication" target="_blank"><i class="mail icon"></i>{{page.link}} via Email</a>{% endif %}
+        {% if website.twitter %} <a class="ui twitter mini button" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i> {{page.link}} na Twitterze</a>{% endif %}
+        {% if website.facebook %} <a class="ui facebook mini button" href="https://facebook.com/{{website.facebook}}/" target="_blank"><i class="facebook icon"></i> {{page.link}} na Facebooku</a>{%endif%}
+        {% if website.email_address %} <a class="ui green mini button" href="mailto:{{website.email_address}}?subject=Support%20Two%20Factor%20Authentication" target="_blank"><i class="mail icon"></i>{{page.link}} przez E-mail</a>{% endif %}
         </td>
       {% endif %}
     </tr>

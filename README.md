@@ -1,46 +1,41 @@
-TwoFactorAuth.org
+Dwa-skladniki
 =================
 
-[![Build Status](https://travis-ci.org/2factorauth/twofactorauth.svg)](https://travis-ci.org/2factorauth/twofactorauth)
-[![License](https://img.shields.io/badge/license-mit-blue.svg?style=flat)](/LICENSE)
-[![Gitter](https://img.shields.io/gitter/room/2factorauth/twofactorauth.svg)](https://gitter.im/2factorauth/twofactorauth)
-[![Twitter](https://img.shields.io/badge/Twitter-@2faorg-blue.svg)](https://twitter.com/2faorg)
+Lista stron działających w Polsce z określeniem czy akceptuja lub nie dwuskładnikowe uwierzytelnianie. Jest to fork projektu repozytorium [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do krajowej specyfiki.
 
-A list of popular sites and whether or not they accept two factor auth.
+Poprzez strony działające w Polsce należy rozumieć strony, które posiadają co najmniej wersje polskojęzyczną interfejsu użytkownika.
 
-## The Goal
+## Cel
 
-The goal is to build a website ([TwoFactorAuth.org](https://twofactorauth.org)) with a comprehensive list of sites that support
-Two Factor Authentication, as well as the methods that they provide.
+Celem jest stworzenie strony zapełniającej obszerny wykaz stron, które wspierają dwuskładnikowe uwierzytelnianie, a także metod, które one wspierają.
 
-Our hope is to aid consumers who are deciding between alternative services based on the security they
-offer for their customers. This can also serve as an indicator for the effort a site has put into security in general.
+Mamy nadzieje, że pomoże to dokonać użytkownikom wyboru pomiędzy alternatywnymi usługami w oparciu o ich bezpieczeństwo, które
+one oferują dla swoich klientów. Warto zaznaczyc, że może to stanowić wskaźnik nakładu pracy jaki został włożony w bezpieczeństwa w ogóle.
 
-## Contributing
+## Rozwój
 
-If you'd like to contribute, read the entire guidelines here in
-[CONTRIBUTING.md][contrib].
+Jeżeli chcesz pomóc wprowadzić zmiany, przeczytaj całe wytyczne w 
+[CONTRIBUTING.md][podręczniku].
 
-## Running Locally
+## Uruchomienie lokalne
 
-TwoFactorAuth.org is built upon [Jekyll](https://jekyllrb.com/), using the [github-pages](https://github.com/github/pages-gem) gem.
-In order to run the site locally, it is necessary to install bundler, install all dependencies, and then use Jekyll to serve
-the site. If the `gem` command is not available to you, it is necessary to install Ruby with RubyGems.
-Once Ruby and RubyGems are installed and available from the command line, TwoFactorAuth can be setup using the following commands.
+
+Dwa-skladniki jest zbudowany na [Jekyll](https://jekyllrb.com/) z użyciem gemu [GitHub-pages](https://github.com/github/pages-gem).
+W celu uruchomienia storny lokalnie, konieczne jest zainstalowanie ``bundler`` i wszystkich zależności, a następnie użycie jekyll, aby dostarczać stronę. Jeśli komenda `gem` nie jest dostępna, konieczne jest zainstalowanie Ruby z RubyGems.
+Gdy Ruby i RubyGems są zainstalowane i dostępne z poziomu wiersza poleceń, dwa-skladniki można ustawić za pomocą następujących poleceń.
 
 ```
 gem install bundler
-cd ~/twofactorauth
+cd ~/dwa-skladniki
 bundle install
 jekyll serve
 ```
 
-The TwoFactorAuth website should then be accessible from `http://localhost:4000`.
+Strona powinna być następnie dostępna z `http://localhost:4000`.
 
-## License
+## Licencja
 
-This code is distributed under the MIT license. For more info, read the
-[LICENSE][license] file distributed with the source code.
+Kod źródłowy jest dostepny na licencji MIT. Aby uzyskać więcej informacji, przeczytaj [LICENSE][plik licencji] dostępny wraz z kodem źródłowym. Jest to fork projektu [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do krajowej specyfiki.
 
 [contrib]: /CONTRIBUTING.md
 [license]: /LICENSE

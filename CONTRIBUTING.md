@@ -1,4 +1,4 @@
-Contributing to TwoFactorAuth.org
+Contributing to dwa-skladniki
 =======================
 
 All the data is managed through a series of [Yaml][yaml] files so it may be

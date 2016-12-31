@@ -10,7 +10,7 @@
 
     {% if include.page == 'home' %}
     <div class="ui dropdown item">
-      Categories <i class="dropdown icon"></i>
+      Kategorie <i class="dropdown icon"></i>
       <div class="menu">
         {% for section in site.data.main.sections %}
         {% if forloop.first %}
@@ -32,7 +32,7 @@
     <div class="right menu">
       <a href="{{ site.repo }}" class="item">
         <i class="github alternate icon"></i>
-        Contribute
+        Rozwijaj
       </a>
     </div>
 
@@ -44,7 +44,7 @@
       <a href="/restrictions" class="item">
         {% endif %}
         <i class="warning icon"></i>
-        Restrictions
+        Ograniczenia
       </a>
       {% endif %}
 

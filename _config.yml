@@ -1,13 +1,13 @@
 permalink: pretty
 markdown: kramdown
 
-title: Two Factor Auth List
-author: Josh Davis
+title: Dwa składniki w Polsce
+author: Josh Davis &amp; Adam Dobrawy
 description:
-    List of sites with Two Factor Auth support which includes SMS, email,
-    phone calls, hardware, and software.
-url: http://twofactorauth.org
-repo: https://github.com/2factorauth/twofactorauth
+    Lista stron z obsługą dwóch składników uwierzytelniania, czyli wiadomości SMS, e-mail,
+     rozmowy telefoniczne, sprzętowe i programowe tokeny.
+url: https://ad-m.github.io/dwa-skladniki/
+repo: https://github.com/ad-m/dwa-skladniki
 img: img/logo.png
 
 exclude:
