@@ -35,7 +35,7 @@ Strona powinna być następnie dostępna z `http://localhost:4000`.
 
 ## Licencja
 
-Kod źródłowy jest dostepny na licencji MIT. Aby uzyskać więcej informacji, przeczytaj [LICENSE][plik licencji] dostępny wraz z kodem źródłowym. Jest to fork projektu [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do krajowej specyfiki.
+Kod źródłowy jest dostepny na licencji MIT. Aby uzyskać więcej informacji, przeczytaj [plik licencji][LICENSE] dostępny wraz z kodem źródłowym. Jest to fork projektu [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do krajowej specyfiki.
 
 [contrib]: /CONTRIBUTING.md
 [license]: /LICENSE
