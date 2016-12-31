@@ -1,3 +1,7 @@
+- id: backup
+  title: Backup i synchronizacja
+  icon: disk outline
+
 - id: cloud
   title: Chmura obliczeniowa
   icon: cloud
