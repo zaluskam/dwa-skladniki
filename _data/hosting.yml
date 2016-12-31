@@ -15,6 +15,7 @@ websites:
     - name: MyDevil
       url: http://mydevil.net
       img: mydevil.png
+      wykop: MyDevil
       facebook: MyDevil.net
       twitter: MyDevilnet
       tfa: No
