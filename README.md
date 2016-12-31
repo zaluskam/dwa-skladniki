@@ -14,11 +14,9 @@ one oferują dla swoich klientów. Warto zaznaczyc, że może to stanowić wska�
 
 ## Rozwój
 
-Jeżeli chcesz pomóc wprowadzić zmiany, przeczytaj całe wytyczne w 
-[CONTRIBUTING.md][podręczniku].
+Jeżeli chcesz pomóc wprowadzić zmiany, przeczytaj całe wytyczne w [podręczniku](CONTRIBUTING.md).
 
 ## Uruchomienie lokalne
-
 
 Dwa-skladniki jest zbudowany na [Jekyll](https://jekyllrb.com/) z użyciem gemu [GitHub-pages](https://github.com/github/pages-gem).
 W celu uruchomienia storny lokalnie, konieczne jest zainstalowanie ``bundler`` i wszystkich zależności, a następnie użycie jekyll, aby dostarczać stronę. Jeśli komenda `gem` nie jest dostępna, konieczne jest zainstalowanie Ruby z RubyGems.
