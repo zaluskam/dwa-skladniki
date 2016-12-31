@@ -1,9 +1,9 @@
 Dwa-skladniki
 =================
 
-Lista stron działających w Polsce z określeniem czy akceptuja lub nie dwuskładnikowe uwierzytelnianie. Jest to fork projektu repozytorium [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do krajowej specyfiki.
+Lista stron działających w Polsce z określeniem czy akceptuja lub nie dwuskładnikowe uwierzytelnianie. Poprzez strony działające w Polsce należy rozumieć strony, które posiadają co najmniej wersje polskojęzyczną interfejsu użytkownika.
 
-Poprzez strony działające w Polsce należy rozumieć strony, które posiadają co najmniej wersje polskojęzyczną interfejsu użytkownika.
+Jest to fork projektu repozytorium [twofactorauth](https://github.com/2factorauth/twofactorauth) odpowiedzialnego za [TwoFactorAuth.org](https://twofactorauth.org) dostosowanego do krajowej specyfiki.
 
 ## Cel
 
