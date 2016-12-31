@@ -6,6 +6,13 @@ websites:
       sms: Yes
       software: Yes
 
+    - name: Oktawave
+      url: https://oktawave.com/
+      facebook: Oktawave
+      email_address: sales@oktawave.com
+      img: oktawave.png
+      tfa: No
+
     - name: Tiktalik
       url: https://tiktalik.com/
       twitter: TiktalikCloud
