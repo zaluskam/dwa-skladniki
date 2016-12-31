@@ -1,4 +1,14 @@
 websites:
+    - name: Gmail
+      url: https://gmail.com
+      img: gmail.png
+      tfa: Yes
+      sms: Yes
+      phone: Yes
+      software: Yes
+      hardware: Yes
+      doc: https://www.google.com/intl/pl/landing/2step/features.html
+
     - name: Interia.pl
       url: https://poczta.interia.pl/
       img: interia.png
@@ -16,6 +26,14 @@ websites:
       img: onet.png
       facebook: pocztaonetpl
       tfa: No
+
+    - name: Outlook.com
+      url: https://outlook.com
+      img: outlook.png
+      tfa: Yes
+      sms: Yes
+      software: Yes
+      doc: http://windows.microsoft.com/pl-PL/windows/two-step-verification-faq
 
     - name: Prokonto.pl
       url: https://prokonto.pl/
