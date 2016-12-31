@@ -13,6 +13,12 @@ websites:
       img: oktawave.png
       tfa: No
 
+    - name: OVH
+      url: https://ovh.pl/
+      twitter: OVH
+      img: ovh.png
+      tfa: No
+
     - name: Tiktalik
       url: https://tiktalik.com/
       twitter: TiktalikCloud
