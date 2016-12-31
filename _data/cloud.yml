@@ -1,4 +1,10 @@
 websites:
+    - name: ArubaCloud
+      url: https://www.arubacloud.pl/
+      img: arubacloud.png
+      facebook: arubacloudpl 
+      tfa: No
+
     - name: e24cloud
       url: https://e24cloud.com/
       img: e24cloud.png
