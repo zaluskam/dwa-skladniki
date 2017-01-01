@@ -23,7 +23,9 @@ websites:
       url: https://ovh.pl/
       twitter: OVH
       img: ovh.png
-      tfa: No
+      tfa: Yes
+      sms: Yes
+      software: Yes
 
     - name: Tiktalik
       url: https://tiktalik.com/
