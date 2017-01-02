@@ -4,3 +4,16 @@ websites:
       img: emaillabs.png
       facebook: EmailLabs
       tfa: No
+    - name: Snapchat
+      url: https://www.snapchat.com/
+      img: snapchat.png
+      tfa: Yes
+      sms: Yes
+      software: Yes
+      doc: https://support.snapchat.com/en-US/about/login-verification
+    - name: WhatsApp
+      url: https://www.whatsapp.com/
+      img: whatsapp.png
+      tfa: Yes
+      sms: Yes
+      doc: https://www.whatsapp.com/faq/en/general/26000021
