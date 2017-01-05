@@ -38,9 +38,11 @@ websites:
     - name: Prokonto.pl
       url: https://prokonto.pl/
       img: prokonto.png
+      facebook: WirtualnaPolska
       tfa: No
 
     - name: WP.pl
       url: http://poczta.wp.pl/
       img: wp.png
+      facebook: WirtualnaPolska
       tfa: No
