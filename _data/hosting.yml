@@ -19,7 +19,9 @@ websites:
       wykop: MyDevil
       facebook: MyDevil.net
       twitter: MyDevilnet
-      tfa: No
+      tfa: Yes
+      software: Yes
+      doc: https://wiki.mydevil.net/Uwierzytelnianie_dwusk%C5%82adnikowe
 
     - name: Nazwa.pl
       url: https://nazwa.pl
