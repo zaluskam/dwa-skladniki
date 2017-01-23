@@ -1,4 +1,9 @@
 websites:
+    - name: Diaspora
+      url: https://diasporafoundation.org
+      img: diaspora.png
+      tfa: No
+
     - name: Facebook
       url: https://facebook.com
       img: facebook.png
