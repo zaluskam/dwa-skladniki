@@ -10,6 +10,7 @@ websites:
       tfa: Yes
       sms: Yes
       software: Yes
+      hardware: Yes
       exceptions:
           text: "Kod SMS wymagany do 2FA. 1 konto na numer telefonu."
       doc: https://www.facebook.com/help/148233965247823
