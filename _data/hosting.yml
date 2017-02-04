@@ -24,9 +24,6 @@ websites:
     - name: MyDevil
       url: http://mydevil.net
       img: mydevil.png
-      wykop: MyDevil
-      facebook: MyDevil.net
-      twitter: MyDevilnet
       tfa: Yes
       software: Yes
       doc: https://wiki.mydevil.net/Uwierzytelnianie_dwusk%C5%82adnikowe

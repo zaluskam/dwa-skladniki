@@ -21,7 +21,6 @@ websites:
 
     - name: OVH
       url: https://ovh.pl/
-      twitter: OVH
       img: ovh.png
       tfa: Yes
       sms: Yes
