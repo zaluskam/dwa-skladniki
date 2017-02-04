@@ -12,7 +12,7 @@ require 'fastimage'
 @tfa_yes_tags = %w(doc)
 
 # YAML tags related to TFA 'NO'.
-@tfa_no_tags = %w(status twitter facebook email_address)
+@tfa_no_tags = %w(status twitter facebook wykop email_address)
 
 # TFA forms
 @tfa_forms = %w(email hardware software sms phone)
