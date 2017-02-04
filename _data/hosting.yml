@@ -13,6 +13,14 @@ websites:
       facebook: linuxplcom
       tfa: No
 
+    - name: Kylos.pl
+      url: http://kylos.pl
+      img: kylos.png
+      facebook: kylos.hosting
+      twitter: kylospl
+      wykop: KylosPL
+      tfa: No
+
     - name: MyDevil
       url: http://mydevil.net
       img: mydevil.png
