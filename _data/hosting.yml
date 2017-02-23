@@ -1,4 +1,11 @@
 websites:
+    - name: dhosting.pl
+      url: https://dhosting.pl/
+      img: dhosting.png
+      twitter: dhosting_pl
+      facebook: dhostingpl
+      tfa: No
+
     - name: Hekko
       url: http://hekko.pl
       img: hekko.png
