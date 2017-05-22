@@ -34,4 +34,6 @@ websites:
       url: https://wykop.pl
       img: wykop.png
       facebook: wykoppl
-      tfa: No
+      tfa: Yes
+      software: Yes
+      doc: https://www.wykop.pl/wpis/24198791/wykopowicze-na-waszych-profilach-w-ustawieniach-ko/
