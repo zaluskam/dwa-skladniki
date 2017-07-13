@@ -2,10 +2,9 @@ websites:
     - name: Allegro
       url: http://allegro.pl/
       img: allegro.png
-      facebook: allegro
-      twitter: Allegro_Group
-      wykop: allegro_pl
-      tfa: No
+      tfa: Yes
+      sms: Yes
+      doc: https://dlasprzedajacych.allegro.pl/dwustopniowe-logowanie
 
     - name: OLX
       url: http://olx.pl/
