@@ -33,4 +33,13 @@ websites:
       email_address: kontakt@tiktalik.com
       img: tiktalik.png
       tfa: No
+      
+      - name: Hyperone
+      url: http://hyperone.com/
+      email_address: sales@wdc.pl
+      tfa: yes
 
+- name: Rootbox
+      url: http://rootbox.com/
+      email_address: sales@wdc.pl
+      tfa: yes
